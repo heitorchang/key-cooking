@@ -19,9 +19,9 @@
 * Example:
 
 ```
-Enter an animal: [ fat pig ]
+Enter an animal: [ pig ]
 
-The plural of "fat pig" is "fat pigs".
+The plural of "pig" is "pigs".
 ```
 
 * Use `length` and `substr` (second argument is the number of characters).
@@ -36,3 +36,4 @@ The plural of "fat pig" is "fat pigs".
 
 * Bonus: detect if the input is already plural.
 
+* Bonus 2: allow placing an adjective before the animal (fat pigs)
